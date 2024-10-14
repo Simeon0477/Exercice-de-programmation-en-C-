@@ -1,5 +1,5 @@
 # Exercice-de-programmation-en-C-++
-Ce répertoire contient les différents programmes énoncés dans l'exercice
+Ce répertoire contient les différents programmes en réponse aux exercices.
 
 Nous avons:
 
