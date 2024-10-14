@@ -2,6 +2,7 @@
 Ce répertoire contient les différents programmes énoncés dans l'exercice
 
 Nous avons:
+
 -Un programme qui implémente la suite de Fibonacci
 
 -Un programme qui implémente l'ensemble de Mandelbrot (Nous avons défini la dimension de l'ensemble à 1000)
